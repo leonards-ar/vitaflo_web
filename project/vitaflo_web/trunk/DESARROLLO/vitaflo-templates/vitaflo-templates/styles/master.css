@@ -1,0 +1,441 @@
+/* CSS Document */
+
+* {
+	padding:0;
+	margin:0;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:1em;  
+}
+
+/* GLOBAL  ********************************************************************************/	
+body
+  {
+	font-size:70%;
+	text-align:center;	
+	margin-top: 30px;
+	color: #003580;
+}
+
+hr {
+	clear: both;
+	margin: 0 0 1em 0;
+	border-top: 1px dashed #999;
+	border-right: 0;
+	border-left: 0;
+	border-bottom: 1px dashed #fff;
+}
+
+.x {
+	display:none;
+}
+.warning {
+	color: #cc0000; 
+	font-weight:bold;}
+/* typography       ********************************************************************/
+
+.b {font-weight:bold;}
+
+h1 {	
+	color: #92bfda;
+	font-size: 180%;
+	padding-bottom: 1em;
+	font-weight:normal;} 
+
+h2, caption {
+	color: #92bfda;
+	font-size: 130%;
+	padding-bottom: 0.2em;text-align:left;font-weight:bold;
+}
+.home h2 {
+	padding-bottom: 1em;
+}
+.articles h2 {
+	font-size: 100%;
+	padding-bottom:0; 
+	clear:both;
+}
+
+.containerB p {
+	padding-bottom: 1em;
+	line-height:1.3em;	
+}
+
+.i, p.i {
+	font-style:italic;
+	color: #05bbfe;
+	padding-bottom:0;}
+
+ol {
+	margin: 0 23px 10px 23px;
+}
+.content ul {
+	margin: 0 17px 10px 17px;
+}
+.right li, .submenu li {
+	padding-bottom:10px;
+	line-height:1.8em;	
+}
+.content li {
+	line-height:1.8em;	
+}
+
+/* structure divs   ********************************************************************/ 
+
+div.container {
+	background:url(/_common/images/structure/bk.gif) center;
+	text-align:left;
+	margin: auto;
+	width: 784px;
+}
+
+div.containerB {
+	width: 770px;
+	margin:auto;
+}
+
+div.header img{
+	border: 0;
+	padding: 0px 0 0 24px;
+	float:right;
+	display:inline;
+	background-repeat:no-repeat;
+}
+div.header .logo {
+	padding-top:12px;float:left;
+	}
+
+div.header {
+	border-bottom: solid 1px #efefef;
+	height: 11.1em;
+}
+div#flash {float:right; width: 462px; font-size:80%;height: 124px}
+div#flash span {padding:30px}
+/* header images   ********************************************************************/ 
+
+/* home -no flash & about us*/
+.bannerA {
+	background:url(/_common/images/structure/banner01.jpg) no-repeat top right;
+}
+/* disorders */
+.bannerB {
+	/*background:url(/_common/images/structure/banner05.jpg) no-repeat top right;*/
+}
+/*products*/
+.bannerC {
+	/*background:url(/_common/images/structure/banner06.jpg) no-repeat top right;*/
+}
+/*news*/
+.bannerD {
+	/*background:url(/_common/images/structure/banner03.jpg) no-repeat top right;*/
+}
+/*how to order*/
+.bannerE {
+	/*background:url(/_common/images/structure/banner02.jpg) no-repeat top right;*/
+}
+/*contact us */
+.bannerF {
+	/*background:url(/_common/images/structure/banner04.jpg) no-repeat top right;*/
+}
+/* homepage        ********************************************************************/ 
+.home {
+	width: 410px;
+	height: 28em;
+	float: left;
+	display: inline;
+	background:url(/_common/images/products/cooler2.jpg) no-repeat right 25px;
+}
+
+.left {
+	float: left;
+}
+
+.title {
+	width: 475px;
+	float: left;
+	background:url(/_common/images/structure/home-title.gif);
+	height: 57px;
+}
+
+.searchBox {
+	float: left;
+	height: 27px;
+	width: 284px;
+	background:url(/_common/images/structure/search-bg.gif);
+	border-bottom: 1px solid #fff;
+	padding-top: 6px;
+	padding-left: 10px;
+	font-size: 1.1em;
+}
+
+.searchBox label {
+	margin-top: 4px;
+	width: 130px;
+}
+
+.searchTextBox {
+	width: 100px;
+	float: left;
+	padding: 2px;
+	margin-left: 10px;
+}
+
+.searchsubmit {
+	margin-top: 4px;
+	margin-left: 4px;
+}
+
+
+.home p, .home h2, .home div {
+	padding-right:150px;
+}
+
+.titleA {
+	background:url(/_common/images/structure/titles/innovation.gif) no-repeat;
+	height: 30px;
+
+}
+.titleB {
+	clear: left;
+	background:url(/_common/images/structure/home-title-news.gif) no-repeat;
+	height: 40px;
+}
+.titleC {
+	background:url(/_common/images/structure/home-title-order.gif) no-repeat;
+	height: 40px;
+}
+
+div.right {
+	width: 294px;
+	float: right;
+	display: inline;
+}
+div.right img, .articles img {
+	width: 77px;
+	height: 63px;
+	float:left;
+	border: solid 1px #cbe4f7;
+	padding: 3px;
+	margin: 0 10px 10px 0;
+	background: #fff;
+}
+
+div.panel {	
+	clear: both;
+	padding: 15px 10px 10px 15px;
+	background: url(/_common/images/structure/bk-right.gif) repeat-x top;
+	font-size: 110%;
+}
+div.panel p {font-weight: normal;}
+
+.contentHeaderStrip {
+	background: url(/_common/images/structure/title-bg.gif) repeat-x top;
+	height: 33px;
+	width: 475px;
+}
+
+/* menu             ********************************************************************/
+div.menu {
+	background:url(/_common/images/structure/menubar.gif) no-repeat top;
+}
+div.menu li {
+	display: inline;
+	margin-right:12px;
+	}
+
+div.menu ul {
+	padding: 19px 20px 9px 27px;	
+}
+
+
+/* submenu   ++    ********************************************************************/
+
+.panel li, .submenu li {
+	background:url(/_common/images/structure/arrow.gif) no-repeat left 3px;
+	list-style-type: none;	
+	padding-left: 22px;
+}
+
+.submenu {
+	float: left;
+	width:150px;
+	padding: 18px;
+}
+/* links            ********************************************************************/
+a {
+	color: #367fad;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.footer a {
+	color:#b7dbf1;
+	font-weight:normal;
+}
+
+div.menu a:hover, div.menu .selected {
+	background:url(/_common/images/structure/bk-menubar.gif);
+}
+.containerB a:hover, .footer a:hover  {
+	text-decoration: underline;
+}
+.back {
+	background:url(/_common/images/structure/arrowred.gif) no-repeat left 10px;
+	padding: 10px 0 0 22px;
+
+}
+/* content          ********************************************************************/
+
+div.content, div.home {
+	padding: 18px;
+	font-size: 110%;
+}
+
+div.content {
+	float: left;
+	width: 545px;
+}
+.detail img {
+	float:right;
+	padding: 10px 5px 15px 20px;
+	display:inline;
+
+}
+
+.detailB img {
+	float:right;
+	/*border: solid 1px #cbe4f7;*/
+	padding: 3px;
+	margin: 0 0 10px 10px;
+	display:inline;
+
+}
+/* downloads        ********************************************************************/
+
+div.downloads {
+	border: 1px solid #f7f7f7;
+	/*width: 350px;*/
+	margin-bottom: 20px;
+}
+
+div.downloads h2 {
+	background:#c9e6f6 url(/_common/images/structure/bk-download.gif) repeat-x top;
+	font-size: 100%;
+	color: #003580;
+	padding: 5px;
+}
+div.downloads ul {
+	margin:3px
+}
+div.downloads li {
+	border-top: 1px solid #e3f2fa;
+	list-style-type: none;	
+	padding:6px 0 6px 28px;
+}
+div.downloads li.first {
+	border:0;
+}
+div.downloads li.pdf {
+	background:url(/_common/images/icons/icon-pdf.gif) no-repeat left 5px;
+}
+div.downloads li.doc {
+	background:url(/_common/images/icons/icon-doc.gif) no-repeat left 5px;
+}
+div.downloads li.txt {
+	background:url(/_common/images/icons/icon-txt.gif) no-repeat left 5px;
+}
+div.downloads li.xls {
+	background:url(/_common/images/icons/icon-xls.gif) no-repeat left 5px;
+}
+/* footer           ********************************************************************/
+
+div.footer {
+	background:url(/_common/images/structure/foot.gif) no-repeat;
+	text-align: right;
+	height:20px;
+	padding:25px 7px 0 0;
+	clear: both;
+}
+
+.footer ul {
+	list-style: none;
+	margin:0;
+}
+
+.footer li {
+		display: inline;
+		padding-left: 10px;	
+}
+
+/* paging           ********************************************************************/
+.paging ul{	
+	padding-top:20px;
+	list-style: none;
+	margin:0;
+	clear: both;
+}
+.paging li {
+	display: inline;	
+	border-left: 1px solid #CBE4F7;
+	padding-left: 5px;
+	margin-left:5px;
+}
+.paging li.first {
+	border: none; 
+	padding-left: 0; 
+	margin-left: 0;}
+/* tables           ********************************************************************/
+table {
+	clear: both;	
+	/*width: 350px;*/
+	border-collapse: collapse;
+	margin-bottom: 20px;
+	}
+caption {}
+th {
+	background:#efefef;
+	border:1px solid #b3d9f0;
+	font-size: 100%;
+	color: #003580;
+	padding: 5px;
+}
+td {
+	border:1px solid #b3d9f0;
+	padding: 3px 8px;
+	
+}
+/* forms            ********************************************************************/
+fieldset { 
+	border: 1px solid #b3d9f0;width: 433px; padding:5px; color:#003580
+	 }
+	 
+label { width: 17em; float:left; clear:left; }
+.submitbutt { margin-left: 140px; }
+.textbox { border: 1px solid #b3d9f0; width: 250px; margin-bottom: 5px; color: #003580; }
+.textboxS { border: 1px solid #b3d9f0; width: 230px; margin-bottom: 5px; color: #003580; }
+.radio {margin-bottom: 5px;}
+legend { font-weight:bold;margin: 10px 0;color:#003580}
+/* hacks            ********************************************************************/
+
+.clearfix:after{
+    content: "."; 
+    display: block; 
+    height: 0; 
+    clear: both; 
+    visibility: hidden;
+}
+
+.clearfix {display: inline-table;}
+
+/* Hides from IE-mac \*/
+* html .clearfix {height: 1%;}
+.clearfix {display: block;}
+/* End hide from IE-mac */
+
+.spacer {
+  clear: both;
+}
+
+
+#searchparam {
+	margin-bottom: 20px;
+}

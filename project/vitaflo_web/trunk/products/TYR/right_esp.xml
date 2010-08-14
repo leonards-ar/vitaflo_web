@@ -1,0 +1,29 @@
+<right>
+<titulo>Productos de TYR</titulo>
+	<item>
+	 <![CDATA[
+	<h2>
+		<a href="gel/">
+			<img width="77" height="63" border="0" src="../../images/products/icons/tyr/gel.jpg"/>
+		  TYR gel
+		</a>
+	</h2>
+	<p>
+      Sustituto proteico en polvo libre de tirosina y fenilalalina para preparar en forma de gel o bebida, en el manejo dietario de la tirosinemia para niños desde los 12 meses hasta los 10 años de edad.
+	</p>
+	 ]]>
+	</item>
+	<item>
+	 <![CDATA[
+	<h2>
+		<a href="express/">
+			<img width="77" height="63" border="0" src="../../images/products/icons/tyr/express.jpg"/>
+		  TYR express
+		</a>
+	</h2>
+	<p>
+	  Sustituto proteico en polvo libre de tirosina y fenilalanina para preparar bebida, en el manejo dietario de los pacientes con tirosinemia a partir de los 8 años en adelante.
+	</p>
+	 ]]>
+	</item>
+</right>

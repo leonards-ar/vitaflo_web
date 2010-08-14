@@ -1,0 +1,12 @@
+<left>
+	<item id="recientes">
+	 <![CDATA[
+	  Current news
+	 ]]>
+	</item>
+	<item id="pasadas">
+	 <![CDATA[
+	  Archive news
+	 ]]>
+	</item>
+</left>

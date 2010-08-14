@@ -1,0 +1,29 @@
+<right>
+<titulo>Productos de HCU</titulo>
+	<item>
+	 <![CDATA[
+	 	<h2>
+		<a href="gel/">
+			<img width="77" height="63" border="0" src="../../images/products/icons/hcu/gel.jpg"/>
+		HCU gel
+		</a>
+	</h2>
+	<p>
+	A methionine free gel or drink for use in the dietary management of Homocystinuria in children from 12 months to 10 years of age.
+	</p>
+	 ]]>
+	</item>
+	<item>
+	 <![CDATA[
+	 <h2>
+	 		<a href="express/">
+			<img width="77" height="63" border="0" src="../../images/products/icons/hcu/express.jpg"/>
+		HCU express
+		</a>
+	</h2>
+	<p>
+	 A methionine free protein substitute for use in the dietary management of Homocystinuria in individuals aged 8 years and older.
+	</p>
+	 ]]>
+	</item>
+</right>

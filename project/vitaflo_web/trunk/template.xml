@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<template>
+	<idioma>
+ 	    <nombre><![CDATA[ Español ]]></nombre>
+            <prefijo>esp</prefijo>
+	    <terminos>Terminos y condiciones</terminos>
+            <pestana>Principal</pestana>
+            <pestana>Sobre Vitaflo</pestana>
+            <pestana>Enfermedades</pestana>
+            <pestana>Productos</pestana>
+            <pestana>Noticias</pestana>
+            <pestana>Como Ordenar</pestana>
+            <pestana>Contáctenos</pestana>
+	</idioma>
+	<idioma>
+	    <nombre>English</nombre>
+	    <prefijo>eng</prefijo>
+	    <terminos><![CDATA[Terms & conditions]]></terminos>
+            <pestana>Home</pestana>
+            <pestana>About Vitaflo</pestana>
+            <pestana>Disorders</pestana>
+            <pestana>Products</pestana>
+            <pestana>News</pestana>
+            <pestana>How to order</pestana>
+            <pestana>Contact us</pestana>
+	</idioma>
+	<idioma>
+            <nombre>Portugués</nombre>
+	    <prefijo>por</prefijo>
+	    <terminos><![CDATA[Termiños y condicioniñas]]></terminos>
+            <pestana><![CDATA[Homiño]]></pestana>
+            <pestana><![CDATA[Aboutiño Vitaflo]]></pestana>
+            <pestana><![CDATA[Disorderdiño]]></pestana>
+            <pestana><![CDATA[Productiño]]></pestana>
+            <pestana><![CDATA[Noticiñas]]></pestana>
+            <pestana><![CDATA[Como ordiñarino]]></pestana>
+            <pestana><![CDATA[Contactiño]]></pestana>
+	</idioma>
+</template>

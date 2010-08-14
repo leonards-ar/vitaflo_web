@@ -1,0 +1,40 @@
+/* CSS Document - Heidi Seymour*/
+
+body {
+   background: white;
+   font-size: 12pt;
+   margin:0;
+   padding:0;   color: black;
+   }
+.menu, .submenu, .footer, .paging, .back, .left, .header {
+   display: none;
+ }
+p.i {color:black;}
+.container, .containerB, .content, .right, .home {
+   width: auto !important;
+   margin: 0;
+   padding: 0;
+   border: 0;
+   float: none !important;
+   color: black;
+   background: transparent none;
+   }
+.downloads {
+	border: 0 !important;
+	width:auto;
+}
+
+a:link, a:visited {
+   color: #520;
+   background: transparent;
+   font-weight: bold;
+   text-decoration: underline;
+   }
+a:link:after, a:visited:after {
+   content: "("attr(href)")";
+   font-size: 80%;
+ 
+   }
+a[href^="/"]:after {
+   content: "(http://www.vitaflousa.com"attr(href)")";
+   }
