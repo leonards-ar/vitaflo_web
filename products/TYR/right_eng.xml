@@ -1,0 +1,29 @@
+<right>
+<titulo>Products</titulo>
+	<item>
+	 <![CDATA[
+	<h2>
+		<a href="gel/">
+			<img width="77" height="63" border="0" src="../../images/products/icons/tyr/gel.jpg"/>
+		  TYR gel
+		</a>
+	</h2>
+	<p>
+      A tyrosine and phenylalanine free drink or gel for use in the dietary management of Tyrosinaemia in children from 12 months to 10 years of age.
+	</p>
+	 ]]>
+	</item>
+	<item>
+	 <![CDATA[
+	<h2>
+		<a href="express/">
+			<img width="77" height="63" border="0" src="../../images/products/icons/tyr/express.jpg"/>
+		  TYR express
+		</a>
+	</h2>
+	<p>
+	  A tyrosine and phenylalanine free protein substitute for use in the dietary management of Tyrosinaemia in individuals aged 8 years and older.
+	</p>
+	 ]]>
+	</item>
+</right>

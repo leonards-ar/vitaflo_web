@@ -1,0 +1,12 @@
+/*
+    ie7.css: Internet Explorer 7 SCREEN STYLES
+	------------
+    Job:               Vitaflo Germany
+    Produced by:       HMS @ Mando Group
+	Start date:        23/01/2007
+	------------
+*/
+div.right div.panel {
+	display:inline-block;
+}
+.clearfix {display:inline-block;}

@@ -1,0 +1,29 @@
+<right>
+<titulo>Producto VitaBite</titulo>
+	<item>
+	 <![CDATA[
+	 	<h2>
+		<a href="VitaBite/">
+			<img width="77" height="63" border="0" src="../../images/products/icons/VitaBite/VitaBite.jpg"/>
+		VitaBite
+		</a>
+	</h2>
+	<p>
+      Barra energética con sabor a chocolate de bajo contenido proteico.
+	</p>
+	 ]]>
+	</item>
+	<item>
+	 <![CDATA[
+	 	<h2>
+		<a href="recetas/">
+			<img width="77" height="63" border="0" src="../../images/products/icons/VitaBite/recetas.jpg"/>
+		Recetas de VitaBite
+		</a>
+	</h2>
+	<p>
+      El Vitabite puede ser utilizado de distintas maneras para proporcionar variedad, energía y diversión a tu dieta. Puede ser consumido simplemente como una barra o derretido, congelado, rayado o calentado en el microondas.
+	</p>
+	 ]]>
+	</item>
+</right>

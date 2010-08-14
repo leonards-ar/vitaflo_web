@@ -1,0 +1,29 @@
+<right>
+<titulo>Productos de HCU</titulo>
+	<item>
+	 <![CDATA[
+	 	<h2>
+		<a href="gel/">
+			<img width="77" height="63" border="0" src="../../images/products/icons/hcu/gel.jpg"/>
+		HCU gel
+		</a>
+	</h2>
+	<p>
+      Sustituto proteico en polvo libre de metionina para preparar gel o bebida para el manejo dietario de los niños con homocistinuria desde los 12 meses hasta los 10 años de edad.
+	</p>
+	 ]]>
+	</item>
+	<item>
+	 <![CDATA[
+	 <h2>
+	 		<a href="express/">
+			<img width="77" height="63" border="0" src="../../images/products/icons/hcu/express.jpg"/>
+		HCU express
+		</a>
+	</h2>
+	<p>
+	  Sustituto proteico en polvo libre de metionina para preparar bebida en el manejo dietario de los pacientes con homocistinuria desde los 8 años en adelante.
+	</p>
+	 ]]>
+	</item>
+</right>

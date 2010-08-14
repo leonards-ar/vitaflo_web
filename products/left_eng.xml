@@ -1,0 +1,43 @@
+<left>
+<titulo> </titulo>
+	<item id="pku">
+	 <![CDATA[
+	  PKU Products
+	 ]]>
+	</item>
+	<item id="MSUD">
+	 <![CDATA[
+	  MSUD Products
+	 ]]>
+	</item>
+	<item id="HCU">
+	 <![CDATA[
+	  HCU Products
+	 ]]>
+	</item>
+	<item id="TYR">
+	 <![CDATA[
+	  TYR Products
+	 ]]>
+	</item>
+	<item id="MMA_PA">
+	 <![CDATA[
+	  MMA/PA Products
+	 ]]>
+	</item>
+	<item id="AA">
+	 <![CDATA[
+	  Amino Acid Supplements
+	 ]]>
+	</item>
+	<item id="FLAVOURPAC">
+	 <![CDATA[
+	  FlavourPac
+	 ]]>
+	</item>
+	<item id="VITABITE">
+	 <![CDATA[
+	  VitaBite
+	 ]]>
+	</item>
+</left>
