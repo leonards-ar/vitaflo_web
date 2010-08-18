@@ -1,7 +1,10 @@
-<right>
+	<right>
 <titulo>Contact us</titulo>
 	<item>
 	 <![CDATA[
+	 <p>
+      Argentina<br>
+	 </p>	 
 	 <p>
       Vitaflo Buenos Aires<br>
 	 </p>
@@ -15,6 +18,7 @@
 	 </p>
 	 ]]>
 	</item>
+
 	<item>
 	 <![CDATA[
 	 <p>
@@ -22,7 +26,69 @@
       web: www.vitaflo-latam.com
 	 </p>
      ]]>
+	</item>	
+
+	<item>
+	 <![CDATA[
+	 <p>
+      Brasil<br>
+	 </p>
+	 <p>
+      Innovative Medicines do Brasil<br>
+      Rua Viera de Castro 285/501<br>
+      Porto Alegre - RS<br>
+      Brasil- CEP 90040-320<br>
+      Telefax: 5551 3333 07773<br>
+      Cel: 5551 9976 3372<br/>
+      <a href="mailto:pires@portoweb.com.br">pires@portoweb.com.br</a>
+	 </p>
+	 ]]>
 	</item>
+		
+	<item>
+	 <![CDATA[
+	 <p>
+      Chile<br>
+	 </p>
+	 <p>
+      MedGen Chile SpA<br>
+      Miraflores N° 178, piso 16, Código postal 832 0215, Santiago - Chile<br>
+      Telephone: 92341491<br>
+      <a href="mailto:picorrea@uc.cl">picorrea@uc.cl</a>
+	 </p>
+	 ]]>
+	</item>
+
+	<item>
+	 <![CDATA[
+	 <p>
+      Colombia<br>
+	 </p>
+	 <p>
+      iMed Orphan Colombia<br>
+      address<br>
+      Telephone: 321 2032380<br>
+      <a href="mailto:smarin@innovativemedicines.com">smarin@innovativemedicines.com</a>
+	 </p>
+	 ]]>
+	</item>
+	
+	<item>
+	 <![CDATA[
+	 <p>
+      México<br>
+	 </p>
+	 <p>
+      Innovative Medicines México<br>
+      Paseo de Tamarindos 130-140<br>
+      Apt.301- Cuajimalpa de Morelos<br>
+      CP 05118 - Distrito Federal - México
+      Telephone: 155 421 7813<br>
+      <a href="mailto:vmason@innovativemedicines.com">vmason@innovativemedicines.com</a>
+	 </p>
+	 ]]>
+	</item>
+		
 	<item>
 	 <![CDATA[
 	 <p>
