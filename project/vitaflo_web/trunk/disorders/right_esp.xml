@@ -1,4 +1,4 @@
-<right>
+﻿<right>
 <titulo>Breve reseña de los trastornos</titulo>
 	<item>
 	<![CDATA[
@@ -60,11 +60,22 @@ El manejo dietario requiere una dieta baja en proteínas y limitada en los amino
 	Para obtener más información detallada sobre los trastornos mencionados arriba, se ruega visitar las siguientes páginas Web en la página Web de Vitaflo Internacional.
      </p>
      <p>
-	<a href="www.vitaflo.co.uk/phenylketonuria.php">www.vitaflo.co.uk/phenylketonuria.php</a><br>
-	<a href="www.vitaflo.co.uk/msud.php">www.vitaflo.co.uk/msud.php</a><br>
-	<a href="www.vitaflo.co.uk/tyrosinaemia.php">www.vitaflo.co.uk/tyrosinaemia.php</a><br>
-	<a href="www.vitaflo.co.uk/homocistinuria.php">www.vitaflo.co.uk/homocistinuria.php</a><br>
+	<a href="http://www.vitaflo.co.uk/phenylketonuria.php">www.vitaflo.co.uk/phenylketonuria.php</a><br>
+	<a href="http://www.vitaflo.co.uk/msud.php">www.vitaflo.co.uk/msud.php</a><br>
+	<a href="http://www.vitaflo.co.uk/tyrosinaemia.php">www.vitaflo.co.uk/tyrosinaemia.php</a><br>
+	<a href="http://www.vitaflo.co.uk/homocistinuria.php">www.vitaflo.co.uk/homocistinuria.php</a><br>
      </p>
 ]]>
 	</item>
+	<item>
+	<![CDATA[
+	<b>Instituciones</b>
+
+     <p>
+	APAE <a href="http://www.apaesp.org.br">http://www.apaesp.org.br</a><br>
+	FEPE <a href="http://fundacaoecumenica.org.br/site/">http://fundacaoecumenica.org.br/site</a><br>
+	Instituto Canguru <a href="http://www.institutocanguru.org.br">http://www.institutocanguru.org.br</a><br>
+     </p>
+]]>
+	</item>	
 </right>

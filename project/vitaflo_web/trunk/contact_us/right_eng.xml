@@ -3,13 +3,13 @@
 	<item>
 	 <![CDATA[
 	 <p>
-      Argentina<br>
+      <b>Argentina</b><br>
 	 </p>	 
 	 <p>
       Vitaflo Buenos Aires<br>
 	 </p>
 	 <p>
-      Cabello 3627 5ÂºA.<br>
+      Cabello 3627 5A.<br>
       C.P. 1425.<br>
       Buenos Aires, Argentina.<br>
       Telefax: 0054 11 4807 0999<br>
@@ -22,8 +22,8 @@
 	<item>
 	 <![CDATA[
 	 <p>
-      e-mail: info@vitaflo-latam.com<br>
-      web: www.vitaflo-latam.com
+      e-mail: <a href="mailto:info@vitaflo-latam.com">info@vitaflo-latam.com</a><br>
+      web: <a href="www.vitaflo-latam.com">www.vitaflo-latam.com</a>
 	 </p>
      ]]>
 	</item>	
@@ -31,7 +31,7 @@
 	<item>
 	 <![CDATA[
 	 <p>
-      Brasil<br>
+      <b>Brasil</b><br>
 	 </p>
 	 <p>
       Innovative Medicines do Brasil<br>
@@ -40,7 +40,7 @@
       Brasil- CEP 90040-320<br>
       Telefax: 5551 3333 07773<br>
       Cel: 5551 9976 3372<br/>
-      <a href="mailto:pires@portoweb.com.br">pires@portoweb.com.br</a>
+      e-mail: <a href="mailto:pires@portoweb.com.br">pires@portoweb.com.br</a>
 	 </p>
 	 ]]>
 	</item>
@@ -48,13 +48,13 @@
 	<item>
 	 <![CDATA[
 	 <p>
-      Chile<br>
+      <b>Chile</b><br>
 	 </p>
 	 <p>
       MedGen Chile SpA<br>
-      Miraflores N° 178, piso 16, Código postal 832 0215, Santiago - Chile<br>
+      Miraflores N 178, piso 16, Codigo postal 832 0215, Santiago - Chile<br>
       Telephone: 92341491<br>
-      <a href="mailto:picorrea@uc.cl">picorrea@uc.cl</a>
+      e-mail:<a href="mailto:picorrea@uc.cl">picorrea@uc.cl</a>
 	 </p>
 	 ]]>
 	</item>
@@ -62,13 +62,13 @@
 	<item>
 	 <![CDATA[
 	 <p>
-      Colombia<br>
+      <b>Colombia</b><br>
 	 </p>
 	 <p>
       iMed Orphan Colombia<br>
       address<br>
       Telephone: 321 2032380<br>
-      <a href="mailto:smarin@innovativemedicines.com">smarin@innovativemedicines.com</a>
+      e-mail: <a href="mailto:smarin@innovativemedicines.com">smarin@innovativemedicines.com</a>
 	 </p>
 	 ]]>
 	</item>
@@ -76,21 +76,24 @@
 	<item>
 	 <![CDATA[
 	 <p>
-      México<br>
+      <b>Mexico</b><br>
 	 </p>
 	 <p>
-      Innovative Medicines México<br>
+      Innovative Medicines Mexico<br>
       Paseo de Tamarindos 130-140<br>
       Apt.301- Cuajimalpa de Morelos<br>
-      CP 05118 - Distrito Federal - México
+      CP 05118 - Distrito Federal - Mexico
       Telephone: 155 421 7813<br>
-      <a href="mailto:vmason@innovativemedicines.com">vmason@innovativemedicines.com</a>
+      e-mail: <a href="mailto:vmason@innovativemedicines.com">vmason@innovativemedicines.com</a>
 	 </p>
 	 ]]>
 	</item>
 		
 	<item>
 	 <![CDATA[
+         <p>
+          <b>United Kingdom</b><br>
+	</p>
 	 <p>
       Vitaflo Internation Ltd.
       11-16 Century Building
@@ -105,7 +108,7 @@
 	 <p>
       Tel: 0044 151 709 9020<br>
       Fax: 0044 151 709 9727<br>
-      Web: www.vitafloweb.com
+      web: <a href="www.vitafloweb.com">www.vitafloweb.com</a>
 	 </p>
      ]]>
 	</item>
