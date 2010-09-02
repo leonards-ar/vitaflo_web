@@ -12,7 +12,6 @@ body
   {
 	font-size:70%;
 	text-align:center;
-	margin-top: 30px;
 	color: #003580;
 }
 
@@ -274,7 +273,7 @@ a {
 }
 
 .footer a {
-	color:#b7dbf1;
+	color:#003580;
 	font-weight:normal;
 }
 
@@ -370,6 +369,30 @@ div.footer {
 .footer li {
 		display: inline;
 		padding-left: 10px;
+}
+
+/* languges         ********************************************************************/
+div.languages {
+	text-align: right;
+	height:20px;
+	padding:25px 7px 0 0;
+	clear: both;
+	width:777px;
+}
+
+.languages ul {
+	list-style: none;
+	margin:0;
+}
+
+.languages li {
+		display: inline;
+		padding-left: 10px;
+}
+
+.languages a {
+font-weight:normal;
+color:#003580;
 }
 
 /* paging           ********************************************************************/
